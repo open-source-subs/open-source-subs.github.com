@@ -80,6 +80,9 @@ body {
 	font-size: 100%;
 	overflow: hidden;
 }
+#main a {
+	border-bottom: 1px dotted #333;
+}
 #main p {
 	line-height: 1.5;
 	font-family: Georgia, serif;
