@@ -128,3 +128,6 @@ a:hover {
 	/*text-decoration: underline;*/
 	background-color: #ccc;
 }
+#logo:hover {
+	background-color: transparent;
+}
