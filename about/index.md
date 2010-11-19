@@ -31,4 +31,16 @@ than finishing them, Xiong wishes for your involvement.
 
 ## Contributors
 
+<span class="bio">
+![dankles](/media/images/dankles.jpg)
+**dankles**
+</span>
+
+<span class="bio">
+![ghost25](/media/images/ghost25.jpg)
+**ghost25**
+</span>
+
 ![Haruhi wants you!](/media/images/haruhi.jpg)
+
+(That means you.)
